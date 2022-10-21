@@ -6,7 +6,7 @@
   <link href="http://chesed.com/atom.xml" rel="self"/>
   
   <link href="http://chesed.com/"/>
-  <updated>2022-10-21T14:07:31.167Z</updated>
+  <updated>2022-10-21T14:11:06.727Z</updated>
   <id>http://chesed.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://chesed.com/2022/10/21/20221021_%E8%A2%AB%E5%9C%A3%E7%81%B5%E5%85%85%E6%BB%A1/"/>
     <id>http://chesed.com/2022/10/21/20221021_%E8%A2%AB%E5%9C%A3%E7%81%B5%E5%85%85%E6%BB%A1/</id>
     <published>2022-10-21T14:07:02.000Z</published>
-    <updated>2022-10-21T14:07:31.167Z</updated>
+    <updated>2022-10-21T14:11:06.727Z</updated>
     
     
       
@@ -34,6 +34,8 @@
     
     
     
+    
+    <category term="圣灵" scheme="http://chesed.com/tags/%E5%9C%A3%E7%81%B5/"/>
     
   </entry>
   
